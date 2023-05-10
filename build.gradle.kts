@@ -29,7 +29,6 @@ dependencies {
     implementation ("io.grpc:grpc-protobuf-lite:1.52.1")
     implementation ("io.grpc:grpc-stub:1.52.1")
     implementation ("io.grpc:grpc-kotlin-stub:1.3.0")
-    implementation platform("com.google.firebase:firebase-bom:24.4.5")
     implementation ("com.google.firebase:firebase-firestore-ktx:24.4.5")
   
 }
